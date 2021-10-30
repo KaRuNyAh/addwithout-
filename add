@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main(){
+int a=3;
+int b=4;
+for(int i=1;i<=a;i++)
+{
+b++;
+}
+printf("%d",b);
+}
